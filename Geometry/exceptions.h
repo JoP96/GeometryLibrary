@@ -1,0 +1,5 @@
+#pragma once
+
+#define INVALID_VALUE_EXCEPTION 1
+#define NORMALIZE_IMPOSSIBLE 2
+
